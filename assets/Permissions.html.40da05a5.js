@@ -1,0 +1,1 @@
+const e={key:"v-c25177a0",path:"/guide/commands/Permissions.html",title:"Command permissions",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Slash-command",slug:"slash-command",children:[]},{level:2,title:"Message command",slug:"message-command",children:[]}],git:{updatedTime:164001263e4},filePathRelative:"guide/commands/Permissions.md"};export{e as data};

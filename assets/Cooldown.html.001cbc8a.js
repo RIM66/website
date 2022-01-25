@@ -1,0 +1,1 @@
+const e={key:"v-610ed4d3",path:"/guide/commands/Cooldown.html",title:"Command cooldown",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Slash-command",slug:"slash-command",children:[]},{level:2,title:"Message command",slug:"message-command",children:[]}],git:{updatedTime:164001263e4},filePathRelative:"guide/commands/Cooldown.md"};export{e as data};

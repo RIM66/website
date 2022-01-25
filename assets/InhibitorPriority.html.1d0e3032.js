@@ -1,0 +1,1 @@
+const i={key:"v-0c9e3cb6",path:"/guide/inhibitors/InhibitorPriority.html",title:"Inhibitors priority",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1629805953e3},filePathRelative:"guide/inhibitors/InhibitorPriority.md"};export{i as data};
